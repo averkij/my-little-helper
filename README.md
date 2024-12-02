@@ -1,2 +1,9 @@
 # my-little-helper
-Helper functions
+
+```
+pip install my_little_helper
+```
+
+```
+import my_little_helper as ml
+```
